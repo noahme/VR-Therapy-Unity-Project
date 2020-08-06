@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<CueCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Cues>
+    <Cue prefabName="BeerKeg">
+      <weight>-1.95263672</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="WaterBottle">
+      <weight>4.21118164</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="GlassOfBeer">
+      <weight>-1.92855835</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="Kettlebell">
+      <weight>4.43228149</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="Ashtray">
+      <weight>-1.8309021</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="Brain">
+      <weight>4.85110474</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="ShotGlass">
+      <weight>2.303894</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="Dumbbell">
+      <weight>4.74914551</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="WineBottle">
+      <weight>2.222412</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="Textbook">
+      <weight>8.736633</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="LagerBeer">
+      <weight>2.156536</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="CampFire">
+      <weight>8.769745</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="Pencil">
+      <weight>8.984085</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="GreenControlCue">
+      <weight>53.3767</weight>
+      <type>MAX</type>
+      <category>control</category>
+    </Cue>
+    <Cue prefabName="YellowControlCue">
+      <weight>55.7045479</weight>
+      <type>MIN</type>
+      <category>control</category>
+    </Cue>
+    <Cue prefabName="RedControlCue">
+      <weight>472.9846</weight>
+      <type>MIN</type>
+      <category>control</category>
+    </Cue>
+    <Cue prefabName="Rose">
+      <weight>867.9456</weight>
+      <type>MAX</type>
+      <category>positive</category>
+    </Cue>
+    <Cue prefabName="RedSoloCup">
+      <weight>964.9263</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="Champagne">
+      <weight>981.1757</weight>
+      <type>MIN</type>
+      <category>negative</category>
+    </Cue>
+    <Cue prefabName="BlueControlCue">
+      <weight>984.7122</weight>
+      <type>MAX</type>
+      <category>control</category>
+    </Cue>
+  </Cues>
+</CueCollection>
